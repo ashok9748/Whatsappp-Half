@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260670527183",
+    "project_id": "neatrootswhatsappp",
+    "storage_bucket": "neatrootswhatsappp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260670527183:android:df26dc3f7f818d2b1c49ba",
+        "android_client_info": {
+          "package_name": "com.example.whatsappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260670527183-chh8lhuf0jscip7h56eei5ajsppojs3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZHJpY_jsWsSnNZ0LuskhJkwOdekHduM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260670527183-chh8lhuf0jscip7h56eei5ajsppojs3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
